@@ -6,7 +6,7 @@ baseurl: "/"
 siteIcon: /media/wyuttt.png
 siteYear: 2024
 siteFooterlink: /about
-showinSearchEngines: true
+showinSearchEngines: false
 # googleAnalyticsID: (uncomment to use)
 
 
