@@ -1,10 +1,10 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://augy-studios.github.io"
-baseurl: "/mossmp-site"
+url: "https://mos.wyuttt.team"
+baseurl: "/"
 siteIcon: /media/wyuttt.png
-siteYear: 2020
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
