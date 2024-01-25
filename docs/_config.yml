@@ -5,7 +5,7 @@ url: "https://mos.wyuttt.team"
 baseurl: "/"
 siteIcon: /media/wyuttt.png
 siteYear: 2024
-siteFooterlink: /about
+# siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
