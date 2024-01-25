@@ -5,14 +5,9 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+MOS SMP is a Minecraft server by Wyuttt.
 
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+[Discord Server](https://discord.gg/Q69MmgXCQK)
 
 
 # Privacy Policy
