@@ -1,9 +1,9 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
+url: "https://augy-studios.github.io"
+baseurl: "/mossmp-site"
+siteIcon: /media/wyuttt.png
 siteYear: 2020
 siteFooterlink: /about
 showinSearchEngines: true
@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+serverName: MOS SMP
+serverDescription: Have Fun, Be Creative and MAKE CONTENT!
+serverIP: mossmp.wyuttt.team
+useBedrockForOnlineStatus: true
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/Q69MmgXCQK
+discordServerID: 1059161696666656788
+discordChannelID: 1194652962350440559
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
@@ -41,16 +41,16 @@ discordChannelID: 450428756855750666
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
 theme: minima
-# plugins:
-#   - jekyll-feed
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-feed
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
